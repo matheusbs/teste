@@ -1,4 +1,4 @@
-familiaridade,batata_original,batata_cara,cebola_salsa,churrasco,familiaridade,azeite_original,azeite_caro,azeite_nao_virgem,azeite_reserva,familiaridade,desodorante_original,desodorante_caro,desodorante_cheiroso,desodorante_anti_bact,protecao_duradoura,alta_temp,esportivo
+familiaridade_batata,batata_original,batata_cara,cebola_salsa,churrasco,familiaridade_azeite,azeite_original,azeite_caro,azeite_nao_virgem,azeite_reserva,familiaridade_desodorante,desodorante_original,desodorante_caro,desodorante_cheiroso,desodorante_anti_bact,protecao_duradoura,alta_temp,esportivo
 1,C,B,A,B,1,B,C,C,A,1,B,A,C,A,C,C,C
 3,C,B,A,B,1,C,A,B,A,3,C,A,A,C,C,A,C
 1,B,A,A,C,2,B,A,C,A,3,A,C,C,C,C,B,C
